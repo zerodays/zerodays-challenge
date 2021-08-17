@@ -7,7 +7,7 @@ from .models import Photo
 
 def list_photos(request):
     if request.method == 'GET':
-        photos = Photo.objects.all()
+        photos = Photo.objects.all().order_by('unsplash_id')
         return JsonResponse(list(map(lambda p: p.to_dict(), photos)), safe=False)
 
     return HttpResponseNotAllowed
