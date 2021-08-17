@@ -10,6 +10,7 @@ This is a simple React challenge, designed for newcomers to familiarize themselv
     - [axios](https://www.npmjs.com/package/axios) - to be used for all API calls.
 - Create 2 pages, further described below.
 - Make some REST API calls. The API is available at [challenge.zerodays.dev/api/v1/](https://challenge.zerodays.dev/api/v1/).
+- Show some sort of error message whenever an API request fails. 
 
 ## 2. Pages
 
@@ -30,6 +31,6 @@ Page served for any other url, not present on the server. Doesn’t need to be a
 - Don’t hesitate to ask for help of further explanation.
 - Make sure the user interface is functional. This is not a design challenge, however usability is important.
 - The website must be responsive.
-- You can ignore localization and API error handling.
+- You can ignore localization.
 - Other libraries are not forbidden. Need some additional icons or styles? Go for it! Just make sure you use grid and flex utilities from tailwind.
 - Server source code is available in this repository in case you want to study it.
