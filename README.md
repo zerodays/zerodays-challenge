@@ -10,7 +10,7 @@ This is a simple React challenge, designed for newcomers to familiarize themselv
     - [axios](https://www.npmjs.com/package/axios) - to be used for all API calls.
 - Create 2 pages, further described below.
 - Make some REST API calls. The API is available at [challenge.zerodays.dev/api/v1/](https://challenge.zerodays.dev/api/v1/).
-- Show some sort of error message whenever an API request fails. 
+- Show some sort of error message whenever an API request fails.
 
 ## 2. Pages
 
@@ -34,3 +34,16 @@ Page served for any other url, not present on the server. Doesn’t need to be a
 - You can ignore localization.
 - Other libraries are not forbidden. Need some additional icons or styles? Go for it! Just make sure you use grid and flex utilities from tailwind.
 - Server source code is available in this repository in case you want to study it.
+
+
+## 4. Planning and time estimation
+
+Now that you've read the instructions, the first thing you should do is to assess the time you think this challenge will take you.
+
+Do it any way you like, but try to provide us with some clue as to how you came up with the estimate (tables/descriptions/graphs/voodoo magic). The time you spend includes:
+- thinking about the problem,
+- bathroom breaks,
+- banging your head against the wall,
+- googling etc.
+
+You can write this in the README file of your repository. Then try to track the time you actually spend and note that too.
