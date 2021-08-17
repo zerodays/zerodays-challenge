@@ -28,7 +28,7 @@ Page served for any other url, not present on the server. Doesn’t need to be a
 
 ## 3. Some quick notes before you start:
 - This is not a time trial. Take your time and create something you are proud of.
-- Don’t hesitate to ask for help of further explanation.
+- Don’t hesitate to ask for help or further explanation.
 - Make sure the user interface is functional. This is not a design challenge, however usability is important.
 - The website must be responsive.
 - You can ignore localization.
