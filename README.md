@@ -5,6 +5,7 @@ This is a simple React challenge, designed for newcomers to familiarize themselv
 ## 1. Project goals:
 - Set up a new React project. We'll use functional components.
 - Install a few frameworks we usually use:
+    - [typescript](https://www.typescriptlang.org/) - for better code maintainability (try to use types wherever possible).
     - [nextjs](https://nextjs.org/) - to be used mostly for routing, links, and images.
     - [tailwindcss](https://tailwindcss.com/docs/guides/create-react-app) - UI is to be built with tailwindcss components. Note that tailwindcss is free, while tailwindui is not. We use tailwindcss for its utilities (flex, grid).
     - [axios](https://www.npmjs.com/package/axios) - to be used for all API calls.
@@ -46,4 +47,4 @@ Do it any way you like, but try to provide us with some clue as to how you came 
 - banging your head against the wall,
 - googling etc.
 
-You can write this in the README file of your repository. Then try to track the time you actually spend and note that too.
+You can write this in the README file of your repository. Then try to track the time you actually spend and note that too. Make sure the README includes all the relevant information about the project (what it does, how to run the code etc.).
